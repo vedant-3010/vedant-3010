@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Next.js and exploring Vue.js<br>👯 I’m looking to collaborate on open-source and freelance projects<br>💪 Interesed in all things around the ecosystem of TypeScript, React, Node and Flutter <br>💬 Ask me about anything JS and React<br>📫 How to reach me: <a href="mailto:vedantdandge11@gmail.com">vedantdandge11@gmail.com</a></p>
+<p align="left">🌱 I’m currently exploring GenAI<br>👯 I’m looking to collaborate on open-source and freelance projects<br>💪 Interesed in all things around the ecosystem of TypeScript, React, Node and Flutter <br>💬 Ask me about anything JS and React<br>📫 How to reach me: <a href="mailto:vedantdandge11@gmail.com">vedantdandge11@gmail.com</a></p>
 
 
 ###
